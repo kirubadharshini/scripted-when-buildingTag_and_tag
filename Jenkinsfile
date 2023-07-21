@@ -5,6 +5,7 @@ node{
 		}
 		else{
 			println(" we are building a branch")
+			//ki
 		}
 		
 		if(env.TAG_NAME == "release-1.0"){
